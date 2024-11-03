@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Akshayaa's - Portfolio")
+st.title("Portfolio")
 
 st.header("About Me")
 st.write("""
@@ -8,9 +8,8 @@ I'm Akshayaa, a 1st-year B.Tech student in Artificial Intelligence and Data Scie
 
 st.header("Interests")
 st.write("""
-* Artificial Intelligence
-* Data Science
-* Web Development
+* learning programming languages
+* laerning new concepts
 """)
 
 st.header("Education")
